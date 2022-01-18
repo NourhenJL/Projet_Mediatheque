@@ -1,0 +1,14 @@
+Client 1 a sfax 0/0/0 3/6/2021 4 0 1 0 1 tarifnormal 5 0 1 1 0
+Client 2 a tunis 3/6/2020 3/11/2020 0 0 0 0 1 tarifreduit 2 0 0.5 0.5 0
+Client 3 a patata 0/0/0 0/0/0 0 0 0 0 0 tarifreduit 0 0 0 0 0
+Client 4 a patata 0/0/0 0/0/0 0 0 0 0 0 X 0 0 0 0 0
+Client a a a 7/6/2020 7/6/2021 0 0 0 0 0 Abonne 10 30 0 2 0
+Client aloulou mahmoud sfax 1/1/2020 1/1/2021 0 0 0 0 0 X 0 0 0 0 0
+Client mechkene mahdi ezzahra 1/1/2020 1/1/2021 0 0 0 0 0 X 0 0 0 0 0
+Client trimech souhail monastir 1/1/2020 1/1/2021 0 0 0 0 0 X 0 0 0 0 0
+Client kallel skander montfleury 1/1/2020 1/1/2021 0 0 0 0 0 X 0 0 0 0 0
+Client barchouch islem benArous 1/1/2020 1/1/2021 0 0 0 0 0 X 0 0 0 0 0
+Client sahbeni chiheb ariana 1/1/2020 1/1/2021 0 0 0 0 0 X 0 0 0 0 0
+Client sghaier montassar siliana 1/1/2020 1/1/2021 0 0 0 1 0 X 0 0 0 0 0
+Client baccar mahdi gabes 1/1/2020 1/1/2021 0 0 0 0 0 X 0 0 0 0 0
+Client mechkene mohamed hamemlif 1/1/2020 1/1/2021 1 0 1 0 0 Abonne 10 30 0 2 0

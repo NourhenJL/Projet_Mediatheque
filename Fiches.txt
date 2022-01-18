@@ -1,0 +1,5 @@
+Fiche 3/6/2020 0/7/2020 0/7/2020 0 1 Client 1 a sfax 0/0/0 3/6/2021 2 0 2 0 0 tarifnormal 5 0 1 1 0 Audio 123 musique abdelhalim 1920 1 1 1 lecture 12 Bigdramashow 0 tarab
+Fiche 3/6/2020 1/7/2020 1/7/2020 0 1 Client 1 a sfax 0/0/0 3/6/2021 3 0 0 0 0 tarifnormal 5 0 1 1 0 Audio 123 musique abdelhalim 1920 2 1 1 lecture 12 Bigdramashow 0 tarab
+Fiche 3/6/2020 16/7/2020 15/7/2020 0 0 Client Aloulou Mahmoud sfax 3/6/2020 3/6/2021 1 0 1 1235 0 abonne 10 30 0 2 0 Livre xxxx xxxx xxxx xxxx 1 1 1 xx xx xxx 0 500
+Fiche 6/6/2020 5/7/2020 4/7/2020 0 1 Client 1 a sfax 0/0/0 3/6/2021 4 0 1 0 0 tarifnormal 5 0 1 1 0 Audio 666 sonata bethoven 1800 1 1 1 Musique 7 classique 0 classique
+Fiche 9/6/2020 22/7/2020 21/7/2020 0 0 Client mechkene mohamed hamemlif 1/1/2020 1/1/2021 1 0 1 0 0 Abonne 10 30 0 2 0 Livre liv006 mathematiques euler 1812 1 1 1 Lecture 2 science 0 122

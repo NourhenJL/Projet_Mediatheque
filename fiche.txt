@@ -1,0 +1,2 @@
+Fiche 0/0/0 0/0/0 0/0/0 1 20 Client m a patata 0 0 0 0 0 tarifreduit 0 0 0 0 0 Livre ok ok np glass 0 0 0 lecture 12 Bigdramashow 0 500
+Fiche 0/0/0 0/0/0 0/0/0 1 20 Client m a patata 0 0 0 0 0 tarifreduit 0 0 0 0 0 Livre ok ok np glass 0 0 0 lecture 12 Bigdramashow 0 500

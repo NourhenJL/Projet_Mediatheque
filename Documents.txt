@@ -1,0 +1,21 @@
+Audio 123 musique abdelhalim 1920 2 1 1 lecture 12 Bigdramashow 0 tarab
+Audio 000 musique abdelhalim 1920 1 1 1 lecture 12 Bigdramashow 0 tarab
+Audio 111 musique abdelhalim 1920 0 0 0 lecture 12 Bigdramashow 0 tarab
+Audio 007 hymne coldplay 2010 0 0 0 Musique 7 pop 0 pop
+Audio 666 sonata bethoven 1800 1 1 1 Musique 7 classique 0 classique
+Livre liv001 l'‚tranger Camus 1942 0 0 0 Lecture 1 roman 0 123
+Livre liv002 l'idiot Dosto‹evski 1869 0 0 0 Lecture 2 roman 0 960
+Livre liv003 MadameBovary Flaubert 1857 0 0 0 Lecture 2 roman 0 576
+Livre liv004 Hamlet Shakespeare 1603 0 0 0 Lecture 3 trag‚die 0 320
+Livre liv005 Lolita VladimirNabokov 1955 0 0 0 Lecture 3 roman 0 544
+Audio aud001 Hello Adele 2015 0 0 0 Musique 1 internationnal 0 anglais
+Audio aud002 yaLili balti 2017 0 0 0 Musique 1 afro-americaine 0 rap
+Audio aud003 Roxanne ThePolice 1978 0 0 0 Musique 5 internationnal 0 rock
+Audio aud004 papaoutai Stromae 2013 0 0 0 Musique 4 francophone 0 Hip-hop
+Audio aud005 Fakarouni OmKalthoum 1955 0 0 0 Musique 7 ancien 0 pop
+Video vid001 Titanic JamesCameron 1997 0 0 0 Cinema 1 film 0 188 legale
+Video vid002 Choufli-7al-Ep1 SlehEddineEssid 2005 0 0 0 Cinema 1 comedie 0 40 legale
+Video vid003 FriendsEp01 DavidCrane 1994 0 0 0 Cinema 4 comedie 0 23 legale
+Video vid004 NoubaEp01 abdelhamidBouchnek 2019 0 0 0 Cinema 3 serie-musicale 0 30 legale
+Video vid005 La-Baleine-Bleue NationalGeographic 2018 0 0 0 Cinema 5 documentaire 0 3 legale
+Livre liv006 mathematiques euler 1812 1 1 1 Lecture 2 science 0 122
